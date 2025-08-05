@@ -1,7 +1,7 @@
 #-------------------------------------------------------
 #                  DICTIONARY AND SET
 #-------------------------------------------------------
-"""
+
 info = {
     "key" : "value",
     "name" : "suhani",
@@ -65,7 +65,7 @@ new_dict = {"city" : "delhi", "age" : 16}
 student.update(new_dict)
 print(student)
 
-"""
+
 #-------------------------------------------------------
 #                        SETS
 #-------------------------------------------------------
@@ -111,3 +111,5 @@ print(set2.pop())  # random pop
 
 print(set2.union(set1)) 
 print(set2.intersection(set1))
+
+
